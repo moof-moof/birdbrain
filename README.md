@@ -29,6 +29,6 @@ The various system tasks are scheduled to run at different speeds, either 50Hz, 
  ![](img/IMG_0124B-50-50.jpg)
 
 ***
-Link to project description: https://sites.google.com/site/xnebmisc/home/birdbrain
+Link to project description: http://xneb.org/mabe/xnebmisc/home/birdbrain.html or https://sites.google.com/view/xneb-project-logs/home/birdbrain
 
 
